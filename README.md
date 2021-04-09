@@ -1,3 +1,16 @@
+# Landing Page basada en un diseño:
+## Imagen base
+Página: https://www.uplabs.com/posts/food-delivery-app-ui-kits-design
+
+![attachment](https://user-images.githubusercontent.com/79278185/114122538-0dec6c80-98b6-11eb-85ec-f69335a07be9.png)
+
+## Resultado
+![screencapture-localhost-3000-2021-04-08-22_03_03](https://user-images.githubusercontent.com/79278185/114122617-455b1900-98b6-11eb-9cd8-3ee1667aa46f.png)
+
+## Librerias y Frameworks
+* Tailwindcss: https://tailwindcss.com/
+* FontAwesome: https://fontawesome.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
